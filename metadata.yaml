@@ -1,0 +1,26 @@
+_repo: The-Angel-in-the-House_4099
+creator:
+  author:
+    agent_name: Patmore, Coventry
+    alias: Patmore, Coventry Kersey Dighton
+    birthdate: 1823
+    deathdate: 1896
+    gutenberg_agent_id: '1354'
+    url: http://www.gutenberg.org/2009/agents/1354
+    wikipedia: http://en.wikipedia.org/wiki/Coventry_Patmore
+description: '[Book I] The betrothal. -- Book II. The espousals.'
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Husband and wife -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Women -- Conduct of life -- Poetry'
+- !lcsh 'Marriage -- Poetry'
+title: The Angel in the House
+url: http://www.gutenberg.org/ebooks/4099
